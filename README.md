@@ -10,7 +10,7 @@ The objective is to understand how daily social media usage affects student well
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard/dashboard-preview.png)
 
 ---
 
