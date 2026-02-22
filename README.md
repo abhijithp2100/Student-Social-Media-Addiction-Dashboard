@@ -10,7 +10,7 @@ The objective is to understand how daily social media usage affects student well
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard/dashboard-preview.png)
+![Dashboard Preview](images/dashboard-preview.png)
 
 ---
 
@@ -20,10 +20,13 @@ The objective is to understand how daily social media usage affects student well
 Student Social Media Addiction Power BI Dashboard
 │
 ├── data
-│   └── Students Social Media Addiction (raw data).csv
+│   └── Students Social Media Addiction.cvs
 │
-└── dashboard
-    └── Student Social Media Addiction Dashboard.pbix
+├── dashboard
+│   └── Student Social Media Addiction Dashboard.pbix
+│
+└── images
+    └── dashboard-preview.png
 ```
 
 ---
@@ -38,6 +41,7 @@ Student Social Media Addiction Power BI Dashboard
 - Social Media Platforms: 12  
 
 ### Key Columns
+
 - Avg Daily Usage Hours  
 - Addiction Score  
 - Mental Health Score  
@@ -60,6 +64,7 @@ Student Social Media Addiction Power BI Dashboard
 ## Dashboard Features
 
 ### KPI Cards
+
 - Average Addiction Score  
 - % Academically Affected  
 - Average Mental Health Score  
@@ -67,6 +72,7 @@ Student Social Media Addiction Power BI Dashboard
 - Average Daily Usage  
 
 ### Visualizations
+
 - Platform Usage Distribution  
 - Addiction Score by Platform  
 - Mental Health Score by Platform  
@@ -74,6 +80,7 @@ Student Social Media Addiction Power BI Dashboard
 - Addiction Score by Gender  
 
 ### Filters
+
 - Gender  
 - Academic Level  
 - Usage Group  
@@ -101,4 +108,4 @@ Student Social Media Addiction Power BI Dashboard
 
 ## Conclusion
 
-This project demonstrates end-to-end data analysis — from raw dataset preparation to interactive dashboard creation. It highlights how behavioral data can be transformed into actionable insights to better understand student digital habits and their impact.
+This project demonstrates end-to-end data analysis — from raw dataset preparation to interactive dashboard creation. It highlights how behavioral data can be transformed into actionable insights to better understand student digital habits and their real-world impact.
